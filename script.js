@@ -1,7 +1,7 @@
 // Sample user data for demonstration (replace with your authentication logic)
 const users = [
-    { username: 'user1', password: 'password1', name: 'User One', email: 'user1@example.com' },
-    { username: 'user2', password: 'password2', name: 'User Two', email: 'user2@example.com' }
+    { username: 'user1', password: 'pass1', name: 'User One', email: 'user1@example.com' },
+    { username: 'user2', password: 'pass2', name: 'User Two', email: 'user2@example.com' }
 ];
 
 let currentUser = null; // Current user (null if not logged in)
